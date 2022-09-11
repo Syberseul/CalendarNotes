@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CalendarNotes/static/css/main.75c4fed9.css",
+    "main.js": "/CalendarNotes/static/js/main.02e1303e.js",
+    "index.html": "/CalendarNotes/index.html",
+    "main.75c4fed9.css.map": "/CalendarNotes/static/css/main.75c4fed9.css.map",
+    "main.02e1303e.js.map": "/CalendarNotes/static/js/main.02e1303e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c4fed9.css",
+    "static/js/main.02e1303e.js"
+  ]
+}
